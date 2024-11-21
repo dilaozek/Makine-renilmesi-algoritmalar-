@@ -1,1 +1,1 @@
-# Makine-renilmesi-algoritmalar-
+# Makine-Örenilmesi-algoritmalar-
